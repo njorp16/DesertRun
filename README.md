@@ -1,4 +1,4 @@
-##Desert Run 
+## Desert Run 
 ## Description
 Welcome to My Game Title, an exciting and engaging platformer game where your agility and timing are key! In this game, your objective is to collect coins while skillfully avoiding various obstacles. Navigate through unique levels using simple controls: 'A' and 'D' keys to move left and right, and the 'Space' bar to jump.
 
